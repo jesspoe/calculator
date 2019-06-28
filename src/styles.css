@@ -81,7 +81,9 @@ body {
   white-space: no-wrap;
   color: var(--color-light-white);
   background-color: rgb(85, 25, 85);
-  border: 3px solid white;
+  border: 1px solid white;
+
+
 }
 
 .keypad {
